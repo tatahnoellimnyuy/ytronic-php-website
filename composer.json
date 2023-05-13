@@ -1,6 +1,6 @@
 {
-    "name": "your-project-name",
-    "description": "Your project description",
+    "name": "my-php/mytestproject",
+    "description": "Y",
     "type": "project",
     "require": {
         "monolog/monolog": "^1.0",
